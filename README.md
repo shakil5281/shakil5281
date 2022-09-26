@@ -1,6 +1,5 @@
-### Hi there 👋, My name is Shakil Hossain
-#### Web developer
-Hi there, 
+### Hi there 👋, I'm Shakil Hossain
+####  I am Web Developer
 This is Shakil Hossain. I am a web design & developer.
 
 Skills: REACT / JS / HTML / CSS / Node / Mongodb /Tailwindcss /
@@ -14,7 +13,5 @@ Skills: REACT / JS / HTML / CSS / Node / Mongodb /Tailwindcss /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil5281)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakil5281&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakil5281)  
 
 ![Profile views](https://gpvc.arturio.dev/shakil5281)  
