@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Shakil Hossain
 ####  I am Web Developer
-This is Shakil Hossain. I am a web design & developer.
 
 Skills: REACT / JS / HTML / CSS / Node / Mongodb /Tailwindcss /
 
