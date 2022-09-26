@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shakil Hossain
 #### Web developer
-![Web developer](https://images.unsplash.com/photo-1445620466293-d6316372ab59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
+
 
 Hi there, 
 This is Shakil Hossain. I am a web design & developer.
