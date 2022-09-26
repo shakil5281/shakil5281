@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shakil Hossain
 ####  I am Web Developer
 
-Skills: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png
+Skills: Js / Nodejs
 
 - 🔭 I’m currently working on Ekushe Fashions Ltd 
 - 🌱 I’m currently learning Ostad - With Rabbil Hasan 
