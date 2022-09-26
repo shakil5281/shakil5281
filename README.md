@@ -15,8 +15,6 @@ Skills: REACT / JS / HTML / CSS / Node / Mongodb /Tailwindcss /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakil5281&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shakil5281)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakil5281)  
 
 ![Profile views](https://gpvc.arturio.dev/shakil5281)  
