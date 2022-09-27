@@ -3,10 +3,10 @@
 
 ## Skills & Experiance:
     * HTML / CSS / Bootstrap
-    * Javascript
+    * JavaScript
     * Wordpress
-    * React / Next
-    * mySql / Mongodb / MSLQ
+    * ReactJS / NextJS
+    * mySql / Mongodb / SSMS
     * NodeJs / ExpressJs
     * Adobe Photoshop
 
