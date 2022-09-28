@@ -2,7 +2,8 @@
 ####  I am Web Design & Developer 👑 Love to write code
 
 ## Skills & Experiance:
-    * HTML / CSS / Bootstrap
+    * HTML / CSS / ejs
+    * Bootstrap / Tailwindcss / Material UI
     * JavaScript
     * Wordpress
     * ReactJS / NextJS
