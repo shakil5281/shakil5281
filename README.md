@@ -7,7 +7,7 @@ As a MERN Stack Developer, I am experienced in building scalable and secure web 
     * Bootstrap || Tailwindcss || Material UI
     * JavaScript
     * ReactJS || NextJS
-    * mySql || Mongodb || SSMS
+    * mySql || Mongodb 
     * NodeJs || ExpressJs
     * Adobe Photoshop
 
