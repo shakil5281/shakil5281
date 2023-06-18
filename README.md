@@ -1,14 +1,14 @@
 ## Hi there 👋, I'm Shakil Hossain <border />
 ####  I am Web Design & Developer 👑 Love to write code
+As a MERN Stack Developer, I am experienced in building scalable and secure web applications using MongoDB, Express.js, React.js, and Node.js.I am also proficient in using React.js to build user interfaces that are fast, dynamic, and responsive, and in using Node.js to provide a fast and efficient runtime environment for server-side applications. My goal is to stay at the forefront of the latest trends and technologies in the industry and continuously improve my skills to deliver exceptional work.
 
 ## Skills & Experiance:
-    * HTML / CSS / ejs
-    * Bootstrap / Tailwindcss / Material UI
+    * HTML5 || CSS3
+    * Bootstrap || Tailwindcss || Material UI
     * JavaScript
-    * Wordpress
-    * ReactJS / NextJS
-    * mySql / Mongodb / SSMS
-    * NodeJs / ExpressJs
+    * ReactJS || NextJS
+    * mySql || Mongodb || SSMS
+    * NodeJs || ExpressJs
     * Adobe Photoshop
 
 - 🔭 I’m currently working on Ekushe Fashions Ltd 
